@@ -61,6 +61,7 @@ Every concept includes:
 - [Chapter 22 — Best Practices & Patterns](22-BestPractices/README.md) — Project structure, repository patterns, anti-patterns at scale.
 
 ### Reference
+- [Chapter 23 — Study & Interview Prep](23-Study/README.md) — the whole book condensed to ~2 days, weighted for interviews.
 - [GLOSSARY](GLOSSARY.md) — Every platform term defined.
 - [INDEX](INDEX.md) — Topic → file index.
 
